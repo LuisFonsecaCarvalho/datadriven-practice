@@ -4,7 +4,3 @@ def nth_highest_key(n: int, data: dict[str, int]) -> str:
     sort_data = dict(sorted(data.items(), key=lambda item: (-item[1], item[0])))
     return list(sort_data.keys())[n-1]
   return None
-
-  
-
-  
