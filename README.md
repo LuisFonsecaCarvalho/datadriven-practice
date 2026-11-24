@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_vale_9322), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Numbered Chair](./practice/python/the-numbered-chair) | Python | Easy | 2026-11-24 |
 | [The Merge Counter](./practice/sql/the-merge-counter) | SQL | Easy | 2026-11-24 |
 | [The Infection Spread](./practice/python/the-infection-spread) | Python | Hard | 2026-11-23 |
 | [Size the Executors](./practice/sql/size-the-executors) | SQL | Medium | 2026-11-23 |
